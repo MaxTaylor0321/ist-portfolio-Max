@@ -11,7 +11,7 @@ git command -m "commit message"
 git push
 ```
 
-![Tux]('https://th.bing.com/th/id/OIP.OZTy_60X1jgwl28TRP2mPgHaHa?rs=1&pid=ImgDetMain)
+![Tux](https://th.bing.com/th/id/OIP.OZTy_60X1jgwl28TRP2mPgHaHa?rs=1&pid=ImgDetMain)
 
 To autocomplete filenames in vim 
 - Ctrl+x Ctrl+f
