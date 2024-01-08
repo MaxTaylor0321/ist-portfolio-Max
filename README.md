@@ -11,6 +11,8 @@ git command -m "commit message"
 git push
 ```
 
+![Tux]('OIP.OZTy_60X1jgwl28TRP2mPgHaHa?rs=1')
 
-
-
+To autocomplete filenames in vim 
+- Ctrl+x Ctrl+f
+- Ctrl+n to cycle through options
